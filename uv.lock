@@ -838,7 +838,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "pydantic-ai", specifier = ">=0.6.0" }]
+requires-dist = [{ name = "pydantic-ai", specifier = ">=0.6.1" }]
 
 [[package]]
 name = "pydantic-ai-slim"
